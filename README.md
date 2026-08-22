@@ -27,6 +27,7 @@
 | Winget for Linux | Github | [jihan-hanhan/Winget-for-Linux](https://github.com/jihan-hanhan/Winget-for-Linux) | Qwen & Trae |
 | UAC | GitHub | [WenAnrong/Linux_uac](https://github.com/WenAnrong/Linux_uac) | Deepseek |
 | Safe Unlink | Github | [WenAnrong/safeunlink](https://github.com/WenAnrong/safeunlink) | Deepseek |
+| Service | Github | [StupidestJack/ServiceForLinux](https://github.com/StupidestJack/ServiceForLinux/) | Deepseek & Gemini |
 | VBS | GitHub | [Linming-XHL/ZakoVBS](https://github.com/Linming-XHL/ZakoVBS) | 未知 |
 
 還有，感謝這位編寫者，表格初版就是它寫的：  
